@@ -1,20 +1,21 @@
-   ---
-   ---
+---
+---
 
-   @import "{{ site.theme }}";
+@import "{{ site.theme }}";
 
-   h1, h2, h3, h4, h5, h6 {
-     color: #2e7d32;
-   }
+h1, h2, h3, h4, h5, h6,
+header h1, header h1 a {
+  color: #2e7d32 !important;
+}
 
-   a {
-     color: #2e7d32;
-   }
+a {
+  color: #2e7d32;
+}
 
-   a:hover, a:focus {
-     color: #1b5e20;
-   }
+a:hover, a:focus {
+  color: #1b5e20;
+}
 
-   hr {
-     border-color: #2e7d32;
-   }
+hr {
+  border-color: #2e7d32;
+}
