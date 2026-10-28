@@ -1,11 +1,3 @@
-<style>
-  h1, h2, h3, h4, h5, h6, header h1 a, header h1 {
-    color: #2e7d32 !important;
-  }
-  a { color: #2e7d32 !important; }
-  a:hover { color: #1b5e20 !important; }
-</style>
-
 # Team Green
 
 Welcome to our CS 410 / CS 411W portfolio.
