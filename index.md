@@ -20,3 +20,10 @@ Instructor: Dr. Ayman El Mesalami
 - Keiyon Tyler
 - Junaita Thomas
 - Jennifer Cano-Lopez
+
+
+## CS 410 - Lab 1 Outline
+
+**Team Green - VolunteerHub**
+
+[View Lab 1 Outline (PDF)](Lab%201%20Outline.pdf)
