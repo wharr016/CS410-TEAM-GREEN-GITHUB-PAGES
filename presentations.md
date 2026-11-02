@@ -1,9 +1,4 @@
 
----
-layout: default
-title: Presentations
----
-
 # Team Green - Presentations
 
 [Home](./) | [Presentations](presentations.html) | [Meet the Team](team.html)
