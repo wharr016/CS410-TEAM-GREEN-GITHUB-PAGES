@@ -29,7 +29,10 @@ planning, documentation, and development.
 
 ## William Harris
 
-*Biography and professional headshot coming soon.*
+William Harris is a student at Old Dominion University
+and a member of Team Green, working on the VolunteerHub
+project for CS 410. He contributes to the team's
+project development and documentation.
 
 ---
 
