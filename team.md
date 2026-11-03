@@ -60,10 +60,10 @@ project development and documentation.
 
 ---
 
-## Junaita Thomas
+## Juanita Thomas
 
 *Biography and professional headshot coming soon.*
-
+Juanita is a Computer Science student at Old Dominion University with previous bachelor's degrees in Business and Psychology from ODU. With a professional background in taxation and finance, Juanita brings a combination of business experience, leadership skills and a multidisciplinary perspective to Team Green's VolunteerHub project.
 ---
 
 ## Jennifer Cano-Lopez
