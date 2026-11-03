@@ -60,7 +60,7 @@ their contributions to the Volunteer Hub project.
 - Sana Rasheed
 - Danielle Rickard
 - Keiyon Tyler
-- Junaita Thomas
+- Juanita Thomas
 - Jennifer Cano-Lopez
 
 ## Project Documentation
