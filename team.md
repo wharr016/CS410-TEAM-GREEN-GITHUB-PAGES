@@ -50,7 +50,12 @@ project development and documentation.
 
 ## Danielle Rickard
 
-*Biography and professional headshot coming soon.*
+<img src="images/Danielle.jpg"
+     alt="Danielle Rickard Headshot"
+     width="120"
+     style="border-radius:10px;">
+
+Danielle Rickard is a Computer Science student at Old Dominion University. With an extensive background in Clinical Engineering, Danielle currently serves as a Senior Clinical Systems Analyst and Systems Administrator for a regional healthcare organization, where she manages critical clinical systems that support patient care. She brings strong analytical skills, technical expertise, and attention to detail to Team Green and the development of the VolunteerHub Project.
 
 ---
 
