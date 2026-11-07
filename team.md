@@ -44,7 +44,12 @@ project development and documentation.
 
 ## Sana Rasheed
 
-*Biography and professional headshot coming soon.*
+ <img src="images/sana.jpeg"
+     alt="Sana Rasheed Headshot"
+     width="120"
+     style="border-radius:10px;">
+
+Sana Rasheed is a Computer Science student at Old Dominion University. With prior experience as a tutor, she brings strong communication skills, patience, and a knack for breaking down complex concepts into clear, understandable steps. She is a dependable team member who contributes reliably to Team Green's VolunteerHub project.
 
 ---
 
