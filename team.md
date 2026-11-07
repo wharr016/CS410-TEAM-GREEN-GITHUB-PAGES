@@ -82,7 +82,11 @@ Juanita is a Computer Science student at Old Dominion University with previous b
 ---
 
 ## Jennifer Cano-Lopez
-
+<img src="images/Jenniferpic.png"
+     alt="Jennifer Lopez Headshot"
+     width="120"
+     style="border-radius:10px;">
+     
 *Biography and professional headshot coming soon.*
 
 ---
