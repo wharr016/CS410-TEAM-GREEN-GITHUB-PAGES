@@ -87,7 +87,7 @@ Juanita is a Computer Science student at Old Dominion University with previous b
      width="120"
      style="border-radius:10px;">
      
-*Biography and professional headshot coming soon.*
+Jennifer Cano-Lopez is a Computer Science student at Old Dominion University with a background in pharmacy operations and inventory management.  She brings firsthand experience with healthcare information systems and databases to Team Green's VolunteerHub project. 
 
 ---
 
