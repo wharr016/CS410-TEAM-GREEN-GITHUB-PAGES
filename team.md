@@ -38,8 +38,12 @@ project development and documentation.
 
 ## Cindy Canupp
 
-*Biography and professional headshot coming soon.*
+<img src="images/Cindy.jpg"
+     alt="Cindy Canupp Headshot"
+     width="120"
+     style="border-radius:10px;">
 
+Cindy Canupp is a Computer Science student at Old Dominion University. With a background as a research assistant in AI and Machine Learning, she is currently a Cybersecurity research assistant contributing to research in Homomorphic Encryption and Trusted Hardware. She brings great attention to detail and meticulous coding skills to the development of Team Green's VolunteerHub Project. 
 ---
 
 ## Sana Rasheed
