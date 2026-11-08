@@ -21,7 +21,7 @@ planning, documentation, and development.
 <img src="images/David.jpg"
      alt="David Ortiz Headshot"
      width="120"
-     style="border-radius:10px:">
+     style="border-radius:10px;">
 
 David Ortiz is a Computer Science student at Old Dominion University and a US Navy veteran. After his service, he decided to change his career path and dive deep into software engineering by learning full-stack web development. He hopes to harness these skills, along with his faith in God and desire to further serve his community, to bring Team Green's VolunteerHub Project to life.
 
