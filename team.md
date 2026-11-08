@@ -76,7 +76,7 @@ Danielle Rickard is a Computer Science student at Old Dominion University. With 
      width="120"
      style="border-radius:10px;">
 
-Keiyon Tyler is a Computer Science student at Old Dominion University with a minor in Cybersecurity and a previous bachelor's degree in Business Administration from VCU. A U.S. Navy veteran and former Information Systems Technician, he currently works as a Systems Administrator III.  He hopes to contribute his IT experience and technical skills to Team Green's VolunteerHub Porject.
+Keiyon Tyler is a Computer Science student at Old Dominion University with a minor in Cybersecurity and a previous bachelor's degree in Business Administration from VCU. A U.S. Navy veteran and former Information Systems Technician, he currently works as a Systems Administrator III.  He hopes to contribute his IT experience and technical skills to Team Green's VolunteerHub Project.
 
 ---
 
