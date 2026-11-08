@@ -18,7 +18,12 @@ planning, documentation, and development.
 
 ## David Ortiz
 
-*Biography and professional headshot coming soon.*
+<img src="images/David.jpg"
+     alt="David Ortiz Headshot"
+     width="120"
+     style="border-radius:10px;">
+
+David Ortiz is a Computer Science student at Old Dominion University and a US Navy veteran. After his service, he decided to change his career path and dive deep into software engineering by learning full-stack web development. He hopes to harness these skills, along with his faith in God and desire to further serve his community, to bring Team Green's VolunteerHub Project to life.
 
 ---
 
@@ -48,7 +53,12 @@ Cindy Canupp is a Computer Science student at Old Dominion University. With a ba
 
 ## Sana Rasheed
 
-*Biography and professional headshot coming soon.*
+ <img src="images/sana.jpeg"
+     alt="Sana Rasheed Headshot"
+     width="120"
+     style="border-radius:10px;">
+
+Sana Rasheed is a Computer Science student at Old Dominion University. With prior experience as a tutor, she brings strong communication skills, patience, and a knack for breaking down complex concepts into clear, understandable steps. She is a dependable team member who contributes reliably to Team Green's VolunteerHub project.
 
 ---
 
@@ -70,7 +80,7 @@ Danielle Rickard is a Computer Science student at Old Dominion University. With 
      width="120"
      style="border-radius:10px;">
 
-Keiyon Tyler is a Computer Science student at Old Dominion University with a minor in Cybersecurity and a previous bachelor's degree in Business Administration from VCU. A U.S. Navy veteran and former Information Systems Technician, he currently works as a Systems Administrator III.  He hopes to contribute his IT experience and technical skills to Team Green's VolunteerHub Porject.
+Keiyon Tyler is a Computer Science student at Old Dominion University with a minor in Cybersecurity and a previous bachelor's degree in Business Administration from VCU. A U.S. Navy veteran and former Information Systems Technician, he currently works as a Systems Administrator III.  He hopes to contribute his IT experience and technical skills to Team Green's VolunteerHub Project.
 
 ---
 
@@ -86,8 +96,12 @@ Juanita is a Computer Science student at Old Dominion University with previous b
 ---
 
 ## Jennifer Cano-Lopez
-
-*Biography and professional headshot coming soon.*
+<img src="images/Jenniferpic.png"
+     alt="Jennifer Lopez Headshot"
+     width="120"
+     style="border-radius:10px;">
+     
+Jennifer Cano-Lopez is a Computer Science student at Old Dominion University with a background in pharmacy operations and inventory management.  She brings firsthand experience with healthcare information systems and databases to Team Green's VolunteerHub project. 
 
 ---
 
