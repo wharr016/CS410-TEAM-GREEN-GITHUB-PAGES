@@ -2,7 +2,9 @@
 # Team Green
 ### CS 410 / CS 411W | Old Dominion University
 
-**[Home](./) | [Presentations](presentations.html) | [Meet the Team](team.html)**
+
+**[Home](./) | [Presentations](presentations.html) | [Meet the Team](team.html) | [References](references.html) | [Glossary](glossary.html)**
+
 
 ---
 
@@ -20,14 +22,10 @@ Volunteer Hub is a proposed web application
 designed to connect volunteers with organizations
 seeking assistance.
 
-The platform will allow volunteers to search for
-opportunities based on location and distance, sign
-up individually or as a team, and discover ways to
-contribute to their communities.
 
-Organizations will be able to post volunteer
-opportunities and manage their volunteers through
-one centralized platform.
+The platform will allow volunteers to search for opportunities based on location and distance, create individual or team accounts, and contact organizations directly about volunteer opportunities.
+
+Organizations will be able to post volunteer opportunities, manage event information, and communicate with interested volunteers through one centralized platform.
 
 
 ## Elevator Pitch
@@ -67,12 +65,13 @@ Users will also be able to review event details and submit initial contact reque
 VolunteerHub focuses on opportunity discovery and initial communication. Event registration, volunteer attendance, and follow-up coordination will remain the responsibility of each organization.
 
 
+
 ## Project Presentations
 
-Explore our feasibility presentation and other
-project-related materials.
+Explore our Final Feasibility Presentation and Working Draft Design Presentation to learn more about VolunteerHub's proposed solution, system design, and development plans.
 
 [View Our Presentations](presentations.html)
+
 
 ## Meet Our Team
 
@@ -109,10 +108,18 @@ their contributions to the Volunteer Hub project.
 
 [View Lab 1 Outline (PDF)](Lab%201%20Outline.pdf)
 
----
+## References
+
+[View Team Green References](references.html)
+
+## Glossary
+
+[View Team Green Glossary](glossary.html)
+
 
 ---
 
 **Team Green | Old Dominion University | Fall 2026**
 
 [Old Dominion University](https://www.odu.edu/) | [ODU Computer Science Department](https://www.cs.odu.edu/)
+
