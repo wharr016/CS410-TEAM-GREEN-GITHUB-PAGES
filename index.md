@@ -29,15 +29,43 @@ Organizations will be able to post volunteer
 opportunities and manage their volunteers through
 one centralized platform.
 
-## Solution Statement
-VolunteerHub is a web-based platform connecting volunteers, teams, and organizations.
 
-### For Volunteers
-Discover nearby opportunities, filter by location and date, and contact organizations directly.
-### For Organizations 
-Publish opportunities, manage event details and visibility, and respond to interested volunteers.
-### How It Connects
-Organizations post opportunities that volunteers and teams discover on the same website.
+## Elevator Pitch
+
+VolunteerHub connects people who want to give back with the local organizations that need them.
+
+Volunteer opportunities are often scattered across flyers, social media, and websites, making them difficult to discover. Meanwhile, organizations struggle to reach potential volunteers and fill available positions.
+
+**VolunteerHub** aims to solve this problem by providing one simple, affordable platform that makes giving back easy to find, easy to join, and easy to manage.
+
+## Problem Description
+
+Volunteer opportunities are often scattered across multiple platforms, including social media, organizational websites, and community postings. This makes it difficult for individuals and teams to find opportunities that match their location, availability, and interests.
+
+At the same time, organizations face challenges reaching potential volunteers and managing opportunity information across disconnected platforms.
+
+The lack of a centralized system creates barriers to volunteer discovery, communication, and coordination, resulting in missed opportunities for both volunteers and organizations.
+
+## Customer and End User
+
+VolunteerHub is designed to serve three primary groups:
+
+- **Volunteer Organizations:** Organizations that need volunteers to support their events and community activities. They can create accounts, publish volunteer opportunities, manage event information, and communicate with interested volunteers.
+
+- **Individual Volunteers:** Individuals interested in giving back to their communities. They can discover nearby opportunities, filter events by location and date, and contact organizations directly.
+
+- **Volunteer Teams:** Groups of individuals who want to participate in volunteer activities together. Teams can create accounts, associate members with their team, and identify priority volunteer opportunities.
+
+## Solution Statement
+
+VolunteerHub is a proposed web-based platform designed to simplify connections between volunteers, teams, and organizations.
+
+The platform will provide a centralized location where organizations can publish and manage volunteer opportunities. Individual volunteers and teams will be able to search for opportunities based on location, distance, dates, and other criteria.
+
+Users will also be able to review event details and submit initial contact requests directly to organizations.
+
+VolunteerHub focuses on opportunity discovery and initial communication. Event registration, volunteer attendance, and follow-up coordination will remain the responsibility of each organization.
+
 
 ## Project Presentations
 
