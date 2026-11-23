@@ -91,14 +91,14 @@ their contributions to the Volunteer Hub project.
 
 ## Team Members
 
-- David Ortiz
-- William Harris
 - Cindy Canupp
-- Sana Rasheed
+- David Ortiz
 - Danielle Rickard
-- Keiyon Tyler
-- Juanita Thomas
 - Jennifer Cano-Lopez
+- Juanita Thomas
+- Keiyon Tyler
+- Sana Rasheed
+- William Harris
 
 ## Project Documentation
 
