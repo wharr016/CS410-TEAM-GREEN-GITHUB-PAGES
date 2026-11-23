@@ -111,5 +111,8 @@ their contributions to the Volunteer Hub project.
 
 ---
 
+---
+
 **Team Green | Old Dominion University | Fall 2026**
 
+[Old Dominion University](https://www.odu.edu/) | [ODU Computer Science Department](https://www.cs.odu.edu/)
