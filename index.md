@@ -16,11 +16,11 @@ project documentation.
 
 ## Our Project: Volunteer Hub
 
-Volunteer Hub is a proposed mobile and web application
+Volunteer Hub is a proposed web application
 designed to connect volunteers with organizations
 seeking assistance.
 
-The application will allow volunteers to search for
+The platform will allow volunteers to search for
 opportunities based on location and distance, sign
 up individually or as a team, and discover ways to
 contribute to their communities.
@@ -28,6 +28,16 @@ contribute to their communities.
 Organizations will be able to post volunteer
 opportunities and manage their volunteers through
 one centralized platform.
+
+## Solution Statement
+VolunteerHub is a web-based platform connecting volunteers, teams, and organizations.
+
+### For Volunteers
+Discover nearby opportunities, filter by location and date, and contact organizations directly.
+### For Organizations 
+Publish opportunities, manage event details and visibility, and respond to interested volunteers.
+### How It Connects
+Organizations post opportunities that volunteers and teams discover on the same website.
 
 ## Project Presentations
 
