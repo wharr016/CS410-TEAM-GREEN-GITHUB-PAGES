@@ -10,8 +10,6 @@
   <a href="references.html">References</a> |
   <a href="glossary.html">Glossary</a>
 </nav>
-
-
 ---
 
 ## Welcome to Team Green!
