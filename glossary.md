@@ -60,6 +60,7 @@ A software interface that allows VolunteerHub's frontend to communicate with its
 ### Prototype
 An initial implementation of VolunteerHub used to demonstrate and evaluate the proposed system's functionality before developing the complete product.
 
----
 
-**Team Green | CS 410 | Fall 2026**
+<hr>
+
+<p><strong>Team Green | CS 410 | Fall 2026</strong></p>
