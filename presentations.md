@@ -38,6 +38,8 @@ Our Working Draft Design Presentation expands upon the feasibility presentation 
 
 [Click Here to View VolunteerHub Design Presentation](https://docs.google.com/presentation/d/1BIWcfKXI7MLEAT2_f92DuERMSydNkPeKteWORtztMCc/edit)
 
----
 
-**Team Green | CS 410 | Fall 2026**
+<hr>
+
+<p><strong>Team Green | CS 410 | Fall 2026</strong></p>
+
