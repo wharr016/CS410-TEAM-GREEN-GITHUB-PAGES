@@ -2,8 +2,8 @@
 # Team Green
 ### CS 410 / CS 411W | Old Dominion University
 
+[Home](./) | [Presentations](presentations.html) | [Meet the Team](team.html) | [References](references.html) | [Glossary](glossary.html)
 
-**[Home](./) | [Presentations](presentations.html) | [Meet the Team](team.html) | [References](references.html) | [Glossary](glossary.html)**
 
 
 ---
