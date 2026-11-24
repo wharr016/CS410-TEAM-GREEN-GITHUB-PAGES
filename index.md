@@ -2,8 +2,14 @@
 # Team Green
 ### CS 410 / CS 411W | Old Dominion University
 
-[Home](./) | [Presentations](presentations.html) | [Meet the Team](team.html) | [References](references.html) | [Glossary](glossary.html)
 
+<nav>
+  <a href="./">Home</a> |
+  <a href="presentations.html">Presentations</a> |
+  <a href="team.html">Meet the Team</a> |
+  <a href="references.html">References</a> |
+  <a href="glossary.html">Glossary</a>
+</nav>
 
 
 ---
