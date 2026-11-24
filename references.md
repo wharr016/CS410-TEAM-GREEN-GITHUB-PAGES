@@ -21,6 +21,7 @@ The following sources were used by Team Green during the research and developmen
 
    [View Source](https://www.urban.org/research-conducted-research/research-projects/nonprofit-trends-and-impacts-study)
 
----
 
-**Team Green | CS 410 | Fall 2026**
+<hr>
+
+<p><strong>Team Green | CS 410 | Fall 2026</strong></p>
